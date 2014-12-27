@@ -1,0 +1,35 @@
+{
+  "name": "HelloWorld-With-Jasmine-Karma-PhantomJS",
+  "version": "1.0.0",
+  "description": "The purpose of this project is to learn how to set up a HelloWorld in 'javascript' with 'jasmine, karma and phantomjs'.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rahife/HelloWorld-With-Jasmine-Karma-PhantomJS"
+  },
+  "keywords": [
+    "jasmine",
+    "test",
+    "karma",
+    "phantomjs",
+    "javascripts",
+    "helloworld",
+    "intro",
+    "example"
+  ],
+  "author": "rafa.hidalgo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahife/HelloWorld-With-Jasmine-Karma-PhantomJS/issues"
+  },
+  "homepage": "https://github.com/rahife/HelloWorld-With-Jasmine-Karma-PhantomJS",
+  "devDependencies": {
+    "jasmine-core": "^2.1.3",
+    "karma": "^0.12.28",
+    "karma-jasmine": "^0.3.3",
+    "karma-phantomjs-launcher": "^0.1.4"
+  }
+}
